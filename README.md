@@ -22,7 +22,7 @@ After cleaning up the results from the webscraper, I was figuring out how to fil
 **Chrome extension**
 Having completed the backend & basic front end of the app, I wanted to make the app more convenient to use by making it into a chrome extension. Alas, the same JS-based issue crops up again and I spent a good few weeks trying to figure it out but reaching an impasse in the understanding of modules and using webpack. It is still in the works and the updated code will be uploaded when that is complete. 
 
-** Further development
+## Further development
 - Chrome extension
 - Notion login page
 - Add instructions on readme
