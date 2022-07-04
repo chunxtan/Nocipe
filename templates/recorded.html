@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Recorded
+{% endblock %}
+
+{% block main %}
+    <div>
+        Recorded your recipe, <b>{{ titleInput }}</b>.
+    </div> 
+    <div>
+        <form action="/record" method="get">
+            <button class="btn btn-primary" type="submit">Record another recipe!</button>
+        </form>
+    </div>
+    <div>
+        <img class="img-fluid mx-auto" src="{{ image }}" id="recordedimg">
+    </div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Record
+{% endblock %}
+
+{% block main %}
+    <div class="container-fluid">
+        <form action="/record" method="post">
+            <div>
+                <input autocomplete="off" autofocus id="link" name="link" placeholder="Recipe Link" type="url">
+            </div>
+            <button type="submit" class="btn btn-primary">Record</button>
+        </form>
+    </div>
+{% endblock %}

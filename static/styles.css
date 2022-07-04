@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    margin: 20px;
+}
+
+#recordedimg {
+    width: 500px;
+}
