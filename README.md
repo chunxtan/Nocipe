@@ -1,7 +1,7 @@
 # Nocipe
 A Notion-Bon Appetit recipe clipper, developed for my final project in CS50. 
 
-![](Screen Recording 2022-07-04 at 21.37.48.gif)
+![Demo GIF](blob/main/Screen%20Recording%202022-07-04%20at%2021.37.48.gif)
 
 ## Background
 For my final project, I wanted to learn more about APIs and web scraping, while incorporating different topics from the various CS50 projects such as Flask. I also wanted to integrate my learning by developing something that would be useful to me. 
